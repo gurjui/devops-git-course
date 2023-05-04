@@ -1,2 +1,2 @@
 devops-git-course
-schimbare facuta de borea
+schimbare facuta de jora
